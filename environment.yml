@@ -1,4 +1,4 @@
-name: sqlite_example
+name: CondaCodeSpace
 channels:
   - conda-forge
 dependencies:
