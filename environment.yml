@@ -1,0 +1,8 @@
+name: CondaCodeSpace
+channels:
+  - conda-forge
+dependencies:
+  - sqlite
+  - cmake
+  - ninja
+  - gcc  # optional on Linux
