@@ -1,5 +1,9 @@
 #include <sqlite3.h>
 #include <iostream>
+#include <git2.h>
+#include <nlohmann/json.hpp>
+
+using json = nlohmann::json;
 
 int main() {
     sqlite3* db;
