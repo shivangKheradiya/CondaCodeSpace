@@ -6,3 +6,9 @@ dependencies:
   - cmake
   - ninja
   - gcc  # optional on Linux
+  - soci-core=4.0
+  - soci-mysql=4.0
+  - soci-sqlite=4.0
+  - libgit2
+  - nlohmann_json
+  - mysql
